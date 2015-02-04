@@ -22,4 +22,4 @@ Those scripts was made for the project of the coursera course "Exploratory Data 
 
 ## Output
 
-The output of the scripts are a .png file, with the dimensions 480 X 480px, containing the plots. Those files will be on a plots directory `./plots` on the working directory. 
+The output of the scripts are a .png file, with the dimensions 480 X 480px, containing the plots. Those files will be on a plot directory `./plot` on the working directory. 
