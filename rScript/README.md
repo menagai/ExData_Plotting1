@@ -14,7 +14,7 @@ Those scripts was made for the project of the coursera course "Exploratory Data 
 
 * Save the R scripts where the data file (household_power_consumption.txt) is.
 
-* On R, set the working directory to where are the files use the comand `wd("path")`.
+* On R, set the working directory to where are the files use the comand `setwd("path")`.
 
 * Run the script on R console using the `source( 'plotX.R' )` substitute the X for 1, 2, 3 or 4 to make the respective plot.
 
